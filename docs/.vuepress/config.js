@@ -3,7 +3,6 @@ import { defineUserConfig } from 'vuepress'
 import { webpackBundler } from '@vuepress/bundler-webpack'
 
 export default defineUserConfig({
-  base: '/coachball-info/',
   lang: 'nl-NL',
 
   title: 'CoachBall',
